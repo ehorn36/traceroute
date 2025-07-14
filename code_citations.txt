@@ -1,0 +1,28 @@
+Code Citations:
+
+# Citation for the IcmpHelperLibrary.IcmpPacket_EchoReply.printResultToConsole() function
+# Date: 03/05/2025
+# Based on: struct — Interpret bytes as packed binary data
+# Source URL: https://docs.python.org/3/library/struct.html
+
+# Citation for the IcmpHelperLibrary.IcmpPacket_EchoReply.__sendIcmpEchoRequest() function
+# Date: 03/05/2025
+# Based on: Python list contains: How to check if an item exists in list?
+# Source URL: https://flexiple.com/python/python-list-contains
+
+# Citation for the IcmpHelperLibrary.IcmpPacket_EchoReply.printResultToConsole() function
+# Date: 03/05/2025
+# Based on: struct — Interpret bytes as packed binary data
+# Source URL: https://docs.python.org/3/library/struct.html
+
+# Citation for the IcmpHelperLibrary.IcmpPacket_EchoReply.printResultToConsole() function
+# Date: 03/05/2025
+# Based on: How to insert a variable value in a string in python [duplicate]
+# Source URL: https://stackoverflow.com/questions/44462209/how-to-insert-a-variable-value-in-a-string-in-python
+
+# Citation for the IcmpHelperLibrary._error_codes variable
+# Date: 03/05/2025
+# Based on: Internet Control Message Protocol (ICMP) Parameters
+# Source URL: https://www.iana.org/assignments/icmp-parameters/icmp-parameters.xhtml
+
+
