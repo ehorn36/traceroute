@@ -45,14 +45,14 @@ The application sends ICMP Echo Requests (Type 8) with increasing **TTL (Time To
 
 ## Running the Program
 
-> ⚠️ Raw socket operations require administrator/root privileges.
+> Raw socket operations require administrator/root privileges.
 
 ### On Linux/macOS:
 ```bash
 sudo python3 IcmpHelperLibrary.py
 ```
 
-## Sample Output
+### Sample Output
 ```bash
 1   192.168.0.1     2 ms
 2   10.0.0.1        6 ms
@@ -86,6 +86,8 @@ Packet Loss: 25%
 | 8    | 0    | Echo Request                      |
 | 11   | 0    | Time Exceeded (TTL Expired)       |
 
+---
 
 ## Acknowledgments
+
 Portions of this README were developed with the assistance of ChatGPT by OpenAI.
